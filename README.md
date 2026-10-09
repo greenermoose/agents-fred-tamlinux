@@ -1,5 +1,9 @@
 # Agents Token Usage Reporter (`fred.agents`)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.agents` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.agents/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.agents).
+
+
 Part of Fred's `fred.*` plugin suite for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment): a shell bar widget tracking usage and token spend for **Antigravity, Claude, Codex, and Cursor**. Replaces the stock `omarchy.agents`
 panel in place via `omarchy.clonedFrom` routing.
 
